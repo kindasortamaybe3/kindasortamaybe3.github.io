@@ -1,6 +1,17 @@
 header {
-    background: url(..images/hbikes.jpg) center/cover;
+    background: url(..images/hbikes.JPG) center / cover;
     height: 60vh;
     justify-content: center;
     text-align: center;
+}
+
+h1 {
+    color: hsla(0, 0%, 100%, 0.9);
+    font-weight: bold;
+}
+
+.slogan {
+    color: hsla(0, 0%, 100%, 0.7);
+    font-weight: lighter;
+    font-size: 1.6rem;
 }

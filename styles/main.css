@@ -1,5 +1,5 @@
 header {
-    background: url(..images/hbikes.JPG) center / cover;
+    background: url(../images/hbikes.JPG) center / cover;
     height: 60vh;
     justify-content: center;
     text-align: center;
@@ -45,7 +45,6 @@ footer.mdl-mini-footer > ul {
     header.mdl-layout__header {
         display: flex;
     }
-
 }
 
 body {
